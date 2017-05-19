@@ -1,4 +1,4 @@
-package com.sabel.entwurfsmuster.strategy.mit;
+package com.sabel.entwurfsmuster.strategy.mit.bremsverhalten;
 
 public interface Bremsverhalten {
 

@@ -1,5 +1,8 @@
 package com.sabel.entwurfsmuster.strategy.mit;
 
+import com.sabel.entwurfsmuster.strategy.mit.beschleunigungsverhalten.Beschleunigungsverhalten;
+import com.sabel.entwurfsmuster.strategy.mit.bremsverhalten.Bremsverhalten;
+
 public abstract  class Fahrzeug {
 	
 	private int anzahlRaeder;

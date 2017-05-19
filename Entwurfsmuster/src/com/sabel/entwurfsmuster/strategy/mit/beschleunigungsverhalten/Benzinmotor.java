@@ -1,4 +1,4 @@
-package com.sabel.entwurfsmuster.strategy.mit;
+package com.sabel.entwurfsmuster.strategy.mit.beschleunigungsverhalten;
 
 public class Benzinmotor implements Beschleunigungsverhalten {
 
